@@ -3,7 +3,7 @@ city VARCHAR(20) NOT NULL,
 country VARCHAR (15) NoT NULL,
 population INT(10) NOT NULL,
 year INT(4) NOT NULL
-PRIMARY KEY (city)
+
 );
 INSERT INTO goroda ('city','country','population','year')
 VALUES
